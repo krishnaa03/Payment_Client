@@ -1,4 +1,4 @@
-# mollie-api-haskell
+# haskell-api
 [![Build Status](https://travis-ci.org/krishnaa03/mollie-api-haskell.svg?branch=master)](https://travis-ci.org/krishnaa03/mollie-api-haskell)
 
 This is a production-grade functional programming payment systems project built by Krishna Saraf (BITS Pilani, Computer Science, Class of 2027). Demonstrating deep functional programming patterns such as GADTs, pure state machines, and STM concurrency, the project implements the complete payment lifecycle for the Mollie API.
